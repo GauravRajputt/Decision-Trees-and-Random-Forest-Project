@@ -24,18 +24,6 @@ The dataset used in this project is **LendingClub loan data (2007-2010)**, obtai
 - `revol.util`: Revolving line utilization rate.
 - `not.fully.paid`: Target variable (1 if the loan was not fully paid back).
 
-## 🚀 Installation
-### 1️⃣ Clone the repository:
-```bash
-git clone https://github.com/27abhishek27/Decision-Trees-and-Random-Forest-Project.git
-cd Decision-Trees-and-Random-Forest-Project
-```
-
-### 2️⃣ Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
 ## 🔍 Methodology
 ### 1. **Data Preprocessing**
 - **Handling Missing Values**: Checked for missing values and handled them using imputation techniques where necessary.
