@@ -73,3 +73,7 @@ All generated plots and graphs are stored in the `visualizations/` folder. These
 - **Feature Engineering**: Create new features based on financial ratios for better predictions.
 - **Comparison with Other Models**: Implement SVM, XGBoost, and Neural Networks for benchmarking.
 - **Deployment**: Convert the model into a Flask API for real-world usability.
+
+---
+## 👨‍💻 Author
+**Gaurav Rajput**
